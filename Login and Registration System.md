@@ -1,4 +1,4 @@
-# Full-Stack Auth System
+# Login and Registration System
 
 A lightweight login and registration system built with React, Flask, and MySQL. 
 
